@@ -1,0 +1,10 @@
+/* TEAM */
+Site owner: FULL_LEGAL_NAME / Bognár Katalin Photography
+Content responsibility: FULL_LEGAL_NAME
+Design / development: DESIGN_DEVELOPMENT_PLACEHOLDER
+
+/* SITE */
+Last update: 2026-06-16
+Language: HU / DE / EN
+Hosting: GitHub Pages
+Standards: HTML5, CSS3, vanilla JavaScript, Schema.org JSON-LD
