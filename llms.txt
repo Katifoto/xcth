@@ -22,9 +22,9 @@ Bognár Katalin Photography is an empathetic, trilingual, Vienna–Győr focused
 Visual atmosphere images are used for brand presentation. The portfolio section contains only selected works by Bognár Katalin with appropriate image usage consent.
 
 ## Important URLs
-- https://DOMAIN/de/
-- https://DOMAIN/hu/
-- https://DOMAIN/en/
-- https://DOMAIN/legal/datenschutz.html
-- https://DOMAIN/legal/adatkezeles.html
-- https://DOMAIN/legal/privacy.html
+- https://www.katalinbognar.com/de/
+- https://www.katalinbognar.com/hu/
+- https://www.katalinbognar.com/en/
+- https://www.katalinbognar.com/legal/datenschutz.html
+- https://www.katalinbognar.com/legal/adatkezeles.html
+- https://www.katalinbognar.com/legal/privacy.html

@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://DOMAIN/sitemap.xml
-Sitemap: https://DOMAIN/image-sitemap.xml
+Sitemap: https://www.katalinbognar.com/sitemap.xml
+Sitemap: https://www.katalinbognar.com/image-sitemap.xml

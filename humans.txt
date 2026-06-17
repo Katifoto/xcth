@@ -1,6 +1,6 @@
 /* TEAM */
-Site owner: FULL_LEGAL_NAME / Bognár Katalin Photography
-Content responsibility: FULL_LEGAL_NAME
+Site owner: Bognár Katalin / Bognár Katalin Photography
+Content responsibility: Bognár Katalin
 Design / development: DESIGN_DEVELOPMENT_PLACEHOLDER
 
 /* SITE */
